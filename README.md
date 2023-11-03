@@ -16,6 +16,8 @@ Python, Pandas, Scikit-Learn, Pytorch, CatBoost, SQL, Bash, Excel, Tableau, Knim
 - [Использование LLM для ответа на сложные научные вопросы](https://github.com/basketbob/ML/tree/main/LLM_Science_Exam)
 - [CommonLit - Оценка сочинений студентов](https://github.com/basketbob/ML/tree/main/commonLit)
 - [Рекомендации товаров для маркетплейса](https://github.com/basketbob/ML/tree/main/aij_RS_marketplace)
+- [Проекты в рамках обучения по программе "Data Scientist: с нуля до middle"](https://github.com/basketbob/ML/blob/main/netology_DS/README.md)
+- [Проекты в рамках обучения по программе "Введение в соревновательный Data Science"](https://github.com/basketbob/ML/blob/main/stepik_competition_ds/README.md)
 
 ## 🌱 Сейчас изучаю
 - [Делаем свой AI-продукт на базе ChatGPT или других LLM моделей](https://stepik.org/course/178846/promo)
